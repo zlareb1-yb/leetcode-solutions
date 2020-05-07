@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/first-bad-version/
+
 # The isBadVersion API is already defined for you.
 # @param version, an integer
 # @return an integer
